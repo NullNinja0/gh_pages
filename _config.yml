@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "NullNinja0"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "You've come to the right place..."
+  avatar : "/assets/images/bio-photo01.jpg"
+  bio    : "You've come to the right place...Stay Cut"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
