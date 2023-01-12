@@ -19,7 +19,7 @@ tags:
   - education
   - code
 ---      
-Below is an example of a buffer overflow in C. It takes user input as an argument into a buffer size of 10 bytes:
+Below is an example of a buffer overflow in C. It takes user input as an argument into a buffer size of 10 bytes: 
 ```c
 #include <stdio.h>
 #include <string.h>
