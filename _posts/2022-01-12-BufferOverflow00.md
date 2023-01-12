@@ -2,7 +2,7 @@
 title: "Buffer Overflow 00"
 excerpt: "Education: Buffer Overflow examples"
 header:
-  overlay_image: /assets/images/welcome.jpg
+  overlay_image: ({{ site.url }}{{ site.baseurl }}/assets/images/welcome.png)
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Welcome"
   actions:
