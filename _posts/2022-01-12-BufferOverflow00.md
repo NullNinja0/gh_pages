@@ -1,14 +1,6 @@
 ---
 title: "Buffer Overflow 00"
-date: 2022-01-120T15:34:30-04:00
-categories:
-  - blog
-  - programming
-tags:
-  - update
-  - programming
----
-excerpt: "This post should [...]"
+excerpt: "Education: Buffer Overflow examples"
 header:
   overlay_image: /assets/images/welcome.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -16,7 +8,17 @@ header:
   actions:
     - label: "More Info"
       url: "NullNinja0.github.io"
-      
+
+date: 2022-01-120T15:34:30-04:00
+categories:
+  - blog
+  - programming
+tags:
+  - update
+  - programming
+  - education
+  - code
+---      
 Example of C code with comments:
 ```c
 #include <stdio.h>
