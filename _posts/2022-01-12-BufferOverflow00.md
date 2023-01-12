@@ -2,7 +2,7 @@
 title: "Buffer Overflow 00"
 excerpt: "Education: Buffer Overflow examples"
 header:
-  overlay_image: /assets/images/code01.png
+  overlay_image: /assets/images/code02.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Welcome"
   actions:
