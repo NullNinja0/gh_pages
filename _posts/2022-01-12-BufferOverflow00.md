@@ -2,7 +2,7 @@
 title: "Buffer Overflow 00"
 excerpt: "Education: Buffer Overflow examples"
 header:
-  overlay_image: ({{ site.url }}{{ site.baseurl }}/assets/images/welcome.png)
+  overlay_image: ({{ site.url }}{{ site.baseurl }}/assets/images/code01.png)
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Welcome"
   actions:
@@ -19,7 +19,7 @@ tags:
   - education
   - code
 ---      
-Example of C code with comments:
+Below is an example of a buffer overflow in C. It takes user input as an argument into a buffer size of 10 bytes:
 ```c
 #include <stdio.h>
 #include <string.h>
