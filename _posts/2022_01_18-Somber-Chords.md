@@ -2,7 +2,7 @@
 title: "Somber Chords"
 excerpt: "Education: Somber Chords"
 header:
-  overlay_image: /assets/images/code02.png
+  overlay_image: /assets/images/8bitTexture00.png
   overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
   caption: "Vain Away Castle - Blade of Somber "
   actions:
