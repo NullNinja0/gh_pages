@@ -17,6 +17,9 @@ tags:
   - education
   - art
 ---      
+
+![SomberPixels]({{ site.url }}{{ site.baseurl }}/assets/images/PixelGame00.png)
+
 A question you may ask yourself, "What are the best chords to use for a dark sounding Hip-Hop inspired instrumental?"
 
     Minor chords: Minor chords tend to sound darker and more ominous than major chords, so using a progression of minor chords can help create a darker atmosphere. For example, you might try using a progression of minor chords like Cm, Fm, and Gm.
